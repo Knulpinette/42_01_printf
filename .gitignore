@@ -1,0 +1,7 @@
+**/objs
+**/obj
+**/libft/objs
+**/libftprintf.a
+libft.a
+**/.vscode/
+**/.DS_Store
